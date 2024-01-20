@@ -1,12 +1,13 @@
 ## Hi there 👋 It's me Subash
 
 
-<img align="right" width="370" height="290" src="https://media.giphy.com/media/4KzpjLvJjJknJ5Xuak/giphy.gif">
+<img align="right" width="350" height="290" src="https://media.giphy.com/media/4KzpjLvJjJknJ5Xuak/giphy.gif">
 - 🔭 Here's my [portfolio](https://subash-08.github.io/portfolio/)                                                 
 - 🌱 I’m currently learning DSA
+...
 - 🤔 I’m looking for help with Placements in FAANG
 - 📫 How to reach me :
-<br /> [<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />](https://www.linkedin.com/in/subash-m-905622220/) 
+<br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/subash-m-905622220/) 
 - 😄 Pronouns: Techie
 
 ### I code in
